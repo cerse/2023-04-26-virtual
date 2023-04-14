@@ -11,7 +11,7 @@
 
 The primary goal of the Community of Edinburgh Research Software Engineers (CERSE) is to invite active and interested Research Software Engineers (RSEs) to bootstrap and participate in a local community of practice.
 
-##	Venue, Date, Time
+## Venue, Date, Time
 
 3pm, 29th April 2023.
 
@@ -36,7 +36,8 @@ This is a provisional timetable. **Fix times and items for your event.**
 |Time  | Activity      |
 |------| ------|
 |15:00 | Welcome - **Felicity Anderon** |                                 
-|15:10 | **List of talks** |
+|15:10 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) |
+|15:20 | **TBD**, Eleni Kotoula, Digital Research Services |
 |16:00 | Close |
 
 In order to get an idea of numbers for catering please **add registration (Optional)**. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).

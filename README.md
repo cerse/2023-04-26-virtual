@@ -13,7 +13,7 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 ## Venue, Date, Time
 
-3pm, 26th April 2023.
+3pm, Wednesday 26th April 2023.
 
 ## Code of Conduct
 

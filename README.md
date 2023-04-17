@@ -37,8 +37,9 @@ This is a provisional timetable. **Fix times and items for your event.**
 |------| ------|
 |15:00 | Welcome - **Felicity Anderon** |                                 
 |15:10 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) |
-|15:20 | **TBD**, Eleni Kotoula, Digital Research Services |
+|15:20 | **Digital Research Facilitation at UoE**, Eleni Kotoula, Digital Research Services |
+|15:30 | **An Introduction to the RSE movement (and why you want to join!)**,Kirsty Pringle, SSI/EPCC |
 |16:00 | Close |
 
-In order to get an idea of numbers for catering please **add registration (Optional)**. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
+In order to get the meeting details please [register](https://www.eventbrite.co.uk/e/cerse-2604-virtual-meeting-tickets-619053584937). If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 

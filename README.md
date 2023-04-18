@@ -37,8 +37,9 @@ This is a provisional timetable.
 |------| ------|
 |15:00 | Welcome - **Felicity Anderson** |                                 
 |15:10 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) |
-|15:20 | **Digital Research Facilitation at UoE**, Eleni Kotoula, Digital Research Services |
-|15:30 | **An Introduction to the RSE movement (and why you want to join!)**,Kirsty Pringle, SSI/EPCC |
+|15:22 | **Digital Research Facilitation at UoE**, Eleni Kotoula, Digital Research Services |
+|15:34 | **An Introduction to the RSE movement (and why you want to join!)**,Kirsty Pringle, SSI/EPCC |
+|15:46 | **Cloud Platforms for Energy Research**. Peter McCallum, Institute for Energy Systems, University of Edinburgh |
 |16:00 | Close |
 
 In order to get the meeting details please [register](https://www.eventbrite.co.uk/e/cerse-2604-virtual-meeting-tickets-619053584937). If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).

@@ -31,7 +31,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ## Schedule
 
-This is a provisional timetable. **Fix times and items for your event.**
+This is a provisional timetable. 
 
 |Time  | Activity      |
 |------| ------|

@@ -35,7 +35,7 @@ This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
-|15:00 | Welcome - **Felicity Anderson** |                                 
+|15:00 | Welcome - **Mario Antonioletti** |                                 
 |15:10 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) |
 |15:22 | **Digital Research Facilitation at UoE**, Eleni Kotoula, Digital Research Services |
 |15:34 | **An Introduction to the RSE movement (and why you want to join!)**, Kirsty Pringle, SSI/EPCC |

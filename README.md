@@ -39,7 +39,7 @@ This is a provisional timetable.
 |15:10 | **Smart Data Foundry**,  Mike Spencer (Smart Data Foundry) |
 |15:20 | **An Introduction to the RSE movement (and why you want to join!)**, Kirsty Pringle, SSI/EPCC |
 |15:30 | **Digital Research Facilitation at UoE**, Eleni Kotoula, Digital Research Services ([pdf](Slides/DRS-CERSE-April2023.pdf)) |
-|15:40 | **Noteable for research use**, James Stix,  EDINA ([pdf](Slides/Noteable-Presentation-Research-April-2023.pdf)) |
+|15:40 | **Noteable for research use**, James Stix,  EDINA ([pptx](Slides/Noteable-Presentation-Research-April-2023.pptx)) ([pdf](Slides/Noteable-Presentation-Research-April-2023.pdf)) |
 |15:50 | **Cloud Platforms for Energy Research**, Peter McCallum, Institute for Energy Systems, University of Edinburgh |
 |16:00 | Close |
 

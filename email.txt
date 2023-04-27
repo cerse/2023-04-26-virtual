@@ -1,0 +1,33 @@
+Hi,
+    Apologies if you get this message more than once via different
+channels.
+
+Our next, and eighth, Community of Edinburgh Research Software
+Engineers (CERSE) will be a virtual zoom meeting seventh CERSE
+meeting will be held on the 26/04/23 starting at 3pm.
+
+Anyone who is involved with, or interested in, the development,
+use, support or management of research software is very welcome to
+attend.
+
+We are co-hosting the seventh CERSE meeting with Digital Research
+Services. The following talks and activities have been scheduled: 
+
+o 15:00 - Welcome - Mario Antonioletti
+o 15:10 - Smart Data Foundry, Mike Spencer (Smart Data Foundry)
+o 15:22 - Digital Research Facilitation at UoE, Eleni Kotoula, 
+          Digital Research Services
+o 15:34 - An Introduction to the RSE movement (and why you want to join!), 
+          Kirsty Pringle, SSI/EPCC
+o 15:46 - Cloud Platforms for Energy Research, Peter McCallum, 
+          Institute for Energy Systems, University of Edinburgh
+o 16:00 - Close
+
+To get the meeting zoom details please register at:
+
+https://www.eventbrite.co.uk/e/cerse-2604-virtual-meeting-tickets-619053584937
+
+Let me know if you hae any questions, 
+
+Mario
+

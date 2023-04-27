@@ -40,7 +40,7 @@ This is a provisional timetable.
 |15:20 | **An Introduction to the RSE movement (and why you want to join!)**, Kirsty Pringle, SSI/EPCC |
 |15:30 | **Digital Research Facilitation at UoE**, Eleni Kotoula, Digital Research Services ([pdf](Slides/DRS-CERSE-April2023.pdf)) |
 |15:40 | **Noteable for research use**, James Stix,  EDINA ([pptx](Slides/Noteable-Presentation-Research-April-2023.pptx)) ([pdf](Slides/Noteable-Presentation-Research-April-2023.pdf)) |
-|15:50 | **Cloud Platforms for Energy Research**, Peter McCallum, Institute for Energy Systems, University of Edinburgh |
+|15:50 | **Cloud Platforms for Energy Research**, Peter McCallum, Institute for Energy Systems, University of Edinburgh ([pdf](Slides/2023-04-26-CERSE-virtual.pdf)) |
 |16:00 | Close |
 
 In order to get the meeting details please [register](https://www.eventbrite.co.uk/e/cerse-2604-virtual-meeting-tickets-619053584937). If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
